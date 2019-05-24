@@ -1,0 +1,31 @@
+{
+  "elements":
+  [
+    {
+    "type": "List",
+    "name": "Shutters",
+    "caption": "Shutters",
+    "add": true,
+    "delete": true,
+    "sort": {
+        "column": "name",
+        "direction": "ascending"
+    },
+    "columns": [{
+        "label": "InstanceID",
+        "name": "instanceID", 
+        "width": "75px",
+        "add": 0,
+        "edit": {
+            "type": "SelectInstance"
+        }
+    },{
+        "label": "Name",
+        "name": "Name",
+        "width": "auto",
+        "add": "Select Instance"
+    }],
+    "values": []
+  }
+ ]
+}

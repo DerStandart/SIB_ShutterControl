@@ -1,0 +1,14 @@
+{
+  "id": "{D12CAD0E-BBCE-4C11-BB3B-892D09415A50}",
+  "name": "Rolladensteuerung",
+  "type": 3,
+  "vendor": "Schrader IT-Beratung",
+  "aliases":
+  [
+    "Rolladen"
+      ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "SIB"
+}
